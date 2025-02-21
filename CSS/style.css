@@ -58,14 +58,110 @@
     max-width: 1180px;
     margin: 0 auto;
     display: flex;
-    height: 250px;
+    justify-content: center;
+    align-items: baseline;
+    
     }
 
 .square-1{
     width: 50%;
     border: 2px dashed black;
     height: 200px;
-    margin: 0 auto;
     background-color: #EE82ED ;
-    align-self: center;
+    margin: 30px 0px 30px ;
+    
 }
+
+.background-color-3{
+    background-color: white;
+}
+
+.container-3{
+    max-width: 1180px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.square-2{
+    width: 60%;
+    border: 2px dashed black;
+    height: 200px;
+    margin: 0 auto;
+    background-color: #1E8FFF ;
+    margin: 30px 0px 30px
+    
+}
+
+.square-3{
+    width: 40%;
+    border: 2px dashed black;
+    height: 200px;
+    margin: 30px 0px 30px;
+    background-color: #FFC0CA ;
+    
+}
+
+.background-color-4{
+    background-color: #D3D3D3;
+    
+}
+
+.container-4{
+    max-width: 1180px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.square-4{
+    width: 40%;
+    border: 2px dashed black;
+    height: 200px;
+    margin: 30px 0px 30px;
+    background-color: #FFC0CA ;
+    
+
+    
+}
+
+.square-5{
+    width: 60%;
+    border: 2px dashed black;
+    height: 200px;
+    margin: 30px 0px 30px;
+    background-color: #1E8FFF ;
+    
+    
+}
+
+.container-5{
+    max-width: 1180px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.square-6{
+    width: 100%;
+    border: 2px dashed black;
+    height: 700px;
+    margin: 30px 0px 30px;
+    background-color: #218B21;
+}
+
+.background-color-5{
+    background-color: #23272A;
+}
+
+.container-5{
+    
+}
+
+
+
