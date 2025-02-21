@@ -15,7 +15,6 @@
 .content{
 
     width: 1180px;
-    height: 30px;
     margin: 0 auto;
     display: flex;
 }
@@ -159,9 +158,45 @@
     background-color: #23272A;
 }
 
-.container-5{
-    
+.container-6{
+    max-width: 1180px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
+.square-7{
+    width: 30%;
+    border: 2px dashed black;
+    height: 200px;
+    margin: 30px 0px 30px;
+    background-color:#F0817F  ;
+}
 
+.flex-grow{
+    display: flex;
+    width: 70%;
 
+}
+
+.squares{
+    flex-grow: 1;
+    height: 200px;
+    background-color: #20B3AA;
+    border: 2px dashed white;
+
+}
+
+.background-color-6{
+     background-color:#23272A ;
+     padding: 30px;
+}
+
+.little-square{
+    width: 100%;
+    border: 1px solid black;
+    height: 40px;
+    background-color: #20B3AA;
+    
+}
