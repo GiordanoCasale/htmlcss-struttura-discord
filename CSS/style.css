@@ -58,7 +58,7 @@
     margin: 0 auto;
     display: flex;
     justify-content: center;
-    align-items: baseline;
+    align-items: center;
     
     }
 
@@ -190,7 +190,7 @@
 
 .background-color-6{
      background-color:#23272A ;
-     padding: 30px;
+     padding: 30px 0px 0px
 }
 
 .little-square{
@@ -198,5 +198,34 @@
     border: 1px solid black;
     height: 40px;
     background-color: #20B3AA;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.container-text-3{
+    width: 40px;
+    height:20px;
+    border: 2px dashed black;
+    background-color: #FDB4C2;
+    align-self: center;
     
+
+
+}
+
+.align-2{
+    align-self: center;
+}
+
+.margin{
+    margin-right: 0,5px;
+}
+
+.container-text-4{
+    width: 55px;
+    height:20px;
+    border: 2px dashed black;
+    background-color: #FDB4C2;
+    align-self: center;
 }
